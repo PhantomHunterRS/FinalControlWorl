@@ -5,5 +5,6 @@ internal class FinalControlWork
     private static void Main(string[] args)
     {
 
+
     }
 }
